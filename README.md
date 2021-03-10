@@ -10,5 +10,4 @@
 I'm graduated in computer technician for Federal Institute of Education, Science and Tecnology of the Sertão Pernambucano (2012 - 2015) and bachelor in computer science for UNG - Guarulhos University (2016 - 2019).
    
 👨🏽‍💻   
-Actually I'm Fullstack Developer at TOTVS working with Java, Javascript (React and React Native) and other technologies.
 I'm fascinated by the world of technology and its power to transform everything around you. I call myself an eternal apprentice, always willing to learn and envolve.
