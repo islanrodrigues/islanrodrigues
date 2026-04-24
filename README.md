@@ -1,10 +1,10 @@
 <div align="center">
 
-## Islan Rodrigues 👋🏾 
+## Islan Rodrigues 👋🏾😃
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islan%20Rodrigues-gray?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/islanrodrigues/)](https://www.linkedin.com/in/islanrodrigues/) 
-[![Instagram Badge](https://img.shields.io/badge/-@islanrodrigues__-gray?style=flat-square&logo=Instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/islanrodrigues_/)](https://www.instagram.com/islanrodrigues_/)
-[![Email Badge](https://img.shields.io/badge/-jose--islan52@hotmail.com-gray?style=flat-square&logo=Microsoft-Outlook&logoColor=white&labelColor=0078D4&link=mailto:jose-islan52@hotmail.com)](mailto:jose-islan52@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islanrodrigues/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/islanrodrigues_/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jose-islan52@hotmail.com)
 
 **_Hi, there! Welcome to my Github profile._** 🥳
 
@@ -21,31 +21,32 @@ ________
 🧠🚀    
 _Technologies and tools with which I have knowledge or which work / worked_.
 
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
        
-![JS Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
             
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
                
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
-![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Hibernate Badge](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
-![Maven Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
         
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![SQLServer Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
     
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 
 </div>
